@@ -101,10 +101,13 @@ os limites e tipo de validação configurar conforme documento.
 
 
 20 - Na aba "Modelo" clicar em "Implantar", escolher "Terminal em tempo real" e configurar conforme mencionado no documento:
-![image](https://github.com/user-attachments/assets/af26d242-a016-42d0-b2e4-2a01239f8a9d)
+
+IMPORTANTE: A PARTIR DESTE PONTO NÃO FOI POSSÍVEL PROSSEGUIR (TALVEZ DEVIDO A ALGUMA LIMITAÇÃO DO PLANO TRIAL), TEM APRESENTADO O PROBLEMA ABAIXO SEGUINDO OS PASSOS DO DOCUMENTO, NÃO PERMITINDO ESCOLHER A OPÇÃO REQUIRIDA E AO UTILIZAR OUTRA OPÇÃO RETORNA FALHA AO TENTAR CRIAR.
+
+![image](https://github.com/user-attachments/assets/346fc8cd-66d2-4838-ab19-a23b9af054b1)
 
 
-clicar para criar o endpoint
+
 
 
 
